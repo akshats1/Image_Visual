@@ -1,0 +1,20 @@
+openslide-python
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scipy
+scikit-learn
+pymongo
+from_root
+Pillow
+fastapi
+scipy
+Flask
+Flask-Cors
+uvicorn
+jinja2
+python-multipart
+slideio
+-e .
