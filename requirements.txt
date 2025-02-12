@@ -1,4 +1,6 @@
 openslide-python
+##windows installation
+##openslide-bin
 pandas
 numpy
 matplotlib
